@@ -1,6 +1,0 @@
-workflows:
-    example-workflow:
-        name: Codemagic Sample Workflow
-        max_build_duration: 20
-        instance_type: mac_mini_m1
-        #
